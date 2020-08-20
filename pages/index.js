@@ -3,8 +3,8 @@ import Head from 'next/head'
 
 const Home = () => (
   <div>
-    <h1>WHO AM I123</h1>
-  <div class="buyit">
+    <h1>WHO AM I 123567</h1>
+  <div>
   <div id='product-component-1597913030827'></div>
 <script type="text/javascript">
 /*<![CDATA[*/
